@@ -6,8 +6,8 @@ Crunch artifacts found in Forensic Triage Images and ingest into a local hosted 
 
 # Pre requisites
 This projects requires the following minimum dependecies installed.
-* Vagrant
-* Virtual Box
+* Vagrant https://developer.hashicorp.com/vagrant/downloads
+* Virtual Box https://www.virtualbox.org/wiki/Downloads
 
 # Usage
 ```
