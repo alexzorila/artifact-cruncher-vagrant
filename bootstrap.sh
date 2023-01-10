@@ -84,6 +84,9 @@ disabled = false
 host = splunklocal
 index = forensics
 crcSalt = <SOURCE>' > /opt/splunk/etc/apps/search/local/inputs.conf
+
+# Install forensic-triage apps/search/local/inputs
+git clone https://github.com/alexzorila/forensic-triage.git /opt/splunk/etc/apps/forensic-triage
 }
 
 
