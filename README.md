@@ -30,6 +30,10 @@ vagrant up
      vagrant ssh
  ------------------------------------------------------------------------------
 ```
+### Parse artifacts
+```
+parse -f /vagrant/artifacts/MSEDGEWIN10.zip
+```
 ### Destroy environment
 ```
 vagrant destroy -f
