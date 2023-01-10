@@ -15,6 +15,19 @@ git clone https://github.com/alexzorila/artifact-cruncher.git
 cd artifact-cruncher
 vagrant up
 ```
+```
+ ------------------------------------------------------------------------------
+ Access Local Splunk via:
+
+   Web Interface
+     Url: https://192.168.56.105:8000
+     User: admin
+     Password: changeme
+
+   CLI via SSH
+     vagrant ssh
+ ------------------------------------------------------------------------------
+```
 # Resources
 * CyLR https://github.com/orlikoski/CyLR
 * CDQR https://github.com/orlikoski/CDQR
