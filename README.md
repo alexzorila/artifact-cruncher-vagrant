@@ -10,11 +10,13 @@ This projects requires the following minimum dependecies installed.
 * Virtual Box https://www.virtualbox.org/wiki/Downloads
 
 ## Usage
+### Build environment
 ```
 git clone https://github.com/alexzorila/artifact-cruncher.git
 cd artifact-cruncher
 vagrant up
 ```
+### Access Splunk
 ```
  ------------------------------------------------------------------------------
  Access Local Splunk via:
@@ -27,6 +29,10 @@ vagrant up
    CLI via SSH
      vagrant ssh
  ------------------------------------------------------------------------------
+```
+### Destroy environment
+```
+vagrant destroy -f
 ```
 ## Resources
 * CyLR https://github.com/orlikoski/CyLR
