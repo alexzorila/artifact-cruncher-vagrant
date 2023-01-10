@@ -18,17 +18,17 @@ vagrant up
 ```
 ### Access Splunk
 ```
- ------------------------------------------------------------------------------
- Access Local Splunk via:
+------------------------------------------------------------------------------
+Access Local Splunk via:
 
-   Web Interface
-     Url: https://192.168.56.105:8000
-     User: admin
-     Password: changeme
+  Web Interface
+    Url: https://192.168.56.105:8000
+    User: admin
+    Password: changeme
 
-   CLI via SSH
-     vagrant ssh
- ------------------------------------------------------------------------------
+  CLI via SSH
+    vagrant ssh
+------------------------------------------------------------------------------
 ```
 ### Parse artifacts
 ```
