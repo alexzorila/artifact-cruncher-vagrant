@@ -4,7 +4,7 @@ Crunch artifacts found in Forensic Triage Images and ingest into a local hosted 
 * VM built using Vagrant and VirtualBox
 * Parse and ingest logs from forensic triage images collected with CyLR
 
-## Pre requisites
+## Prerequisites
 This projects requires the following minimum dependecies installed.
 * Vagrant https://developer.hashicorp.com/vagrant/downloads
 * Virtual Box https://www.virtualbox.org/wiki/Downloads
