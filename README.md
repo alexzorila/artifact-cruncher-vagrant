@@ -12,8 +12,8 @@ This projects requires the following minimum dependecies installed.
 ## Usage
 ### Build environment
 ```
-git clone https://github.com/alexzorila/artifact-cruncher.git
-cd artifact-cruncher
+git clone https://github.com/alexzorila/artifact-cruncher-vagrant
+cd artifact-cruncher-vagrant
 vagrant up
 ```
 ### Access Splunk
